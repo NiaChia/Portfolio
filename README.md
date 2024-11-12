@@ -1,7 +1,11 @@
 # Portfolio
-Nia Ricks 
-QA Engineer
-niaaricks@gmail.com
+**Nia Ricks | QA Engineer | niaaricks@gmail.com**
+
+[About Me](https://github.com/NiaChia/Portfolio/edit/main/README.md#about-me)  
+[Resume](https://github.com/NiaChia/Portfolio/edit/main/README.md#resume)  
+[Skills with Work Samples](https://github.com/NiaChia/Portfolio/edit/main/README.md#skills-with-work-samples)  
+[Additional Skills](https://github.com/NiaChia/Portfolio/edit/main/README.md#additional-skills)  
+[Certificates](https://github.com/NiaChia/Portfolio/edit/main/README.md#certificates)
 
 ## About Me
 Hello! I'm Nia Ricks, a passionate and curious Quality Assurance (QA) Engineer with a diverse background. Before transitioning into the world of software testing, I spent several years as an educator and manager. These roles shaped my problem-solving skills, honed my ability to collaborate effectively, and deepened my commitment to continuous improvement—traits that I now bring to my work in QA.
@@ -11,3 +15,22 @@ Though I'm new to the field of software testing, I’ve put in the work through 
 In my free time, I love diving into video games, exploring the intricate mechanics that make them so engaging. I'm also an avid reader of fantasy novels—appreciating both the narrative and the art of structure in storytelling. Whether it's testing a new game feature, dissecting how a novel unfolds, or figuring out how things work, I thrive on intellectual challenges and the satisfaction of understanding complex systems.
 
 I’m a firm believer in collaboration and continuous learning, always looking for ways to improve not only products and services but also myself. Outside of work, you’ll often find me at a local museum or bookstore, indulging in my love for history, literature, and new ideas. I’m excited to bring my dynamic skill set, curiosity, and passion for quality to the world of QA engineering.
+
+[My LinkedIn Profile](https://www.linkedin.com/in/niaricks/)
+
+## Resume
+You can view/download my Resume [here](https://drive.google.com/file/d/1YOEIDSnrAXqgyk8uz4wThLe8wCx7mamg/view?usp=sharing)
+
+## Skills (with Work Samples)
+- [Requirement Analysis]
+- [Test Cases]
+- [Bug Reports]
+- [Automated Testing]
+
+## Additional Skills
+QA Engineering | Test Planning | Test Documentation | Manual Testing | Mobile Testing | Android Studio |   
+API Testing | UI Testing | Regression Testing | Agile | JIRA | Postman | SQL | Console | Bash | WebDriverIO |   
+JSON | Figma | Node.js | DevTools | GitHub | Git | Automation Testing | JavaScript 
+
+## Certificates
+[QA Engineering Professional Training Program](https://drive.google.com/file/d/1T0lp2iWhvuLgTfRZJshCSEwaH3jAjZEY/view?usp=sharing) Oct 2024
