@@ -1,11 +1,11 @@
 # Portfolio
 **Nia Ricks | QA Engineer | niaaricks@gmail.com**
 
-[About Me](https://github.com/NiaChia/Portfolio/edit/main/README.md#about-me)  
-[Resume](https://github.com/NiaChia/Portfolio/edit/main/README.md#resume)  
-[Skills with Work Samples](https://github.com/NiaChia/Portfolio/edit/main/README.md#skills-with-work-samples)  
-[Additional Skills](https://github.com/NiaChia/Portfolio/edit/main/README.md#additional-skills)  
-[Certificates](https://github.com/NiaChia/Portfolio/edit/main/README.md#certificates)
+[About Me](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#about-me)  
+[Resume](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#resume)  
+[Skills with Work Samples](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#skills-with-work-samples)  
+[Additional Skills](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#additional-skills)  
+[Certificates](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#certificates)
 
 ## About Me
 Hello! I'm Nia Ricks, a passionate and curious Quality Assurance (QA) Engineer with a diverse background. Before transitioning into the world of software testing, I spent several years as an educator and manager. These roles shaped my problem-solving skills, honed my ability to collaborate effectively, and deepened my commitment to continuous improvement—traits that I now bring to my work in QA.
