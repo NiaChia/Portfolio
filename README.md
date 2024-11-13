@@ -3,6 +3,7 @@
 
 [About Me](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#about-me)  
 [Resume](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#resume)  
+[Project Example](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#urban-scooter-project)
 [Skills with Work Samples](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#skills-with-work-samples)  
 [Additional Skills](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#additional-skills)  
 [Certificates](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#certificates)
