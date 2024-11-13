@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio (Under Construction)
 **Nia Ricks | QA Engineer | niaaricks@gmail.com**
 
 [About Me](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#about-me)  
@@ -20,6 +20,8 @@ I’m a firm believer in collaboration and continuous learning, always looking f
 
 ## Resume
 You can view/download my Resume [here](https://drive.google.com/file/d/1YOEIDSnrAXqgyk8uz4wThLe8wCx7mamg/view?usp=sharing)
+
+## Urban Scooter Project
 
 ## Skills (with Work Samples)
 - [Requirement Analysis]
