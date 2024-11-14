@@ -3,7 +3,7 @@
 
 [About Me](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#about-me)  
 [Resume](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#resume)  
-[Project Example](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#urban-scooter-project)
+[Project Example](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#urban-scooter-project)  
 [Skills with Work Samples](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#skills-with-work-samples)  
 [Additional Skills](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#additional-skills)  
 [Certificates](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#certificates)
@@ -25,7 +25,7 @@ You can view/download my Resume [here](https://drive.google.com/file/d/1YOEIDSnr
 ## Urban Scooter Project
 
 ## Skills (with Work Samples)
-- [Requirement Analysis]
+- [Requirement Analysis](https://drive.google.com/file/d/1N9HhpW18OWqEq3gllmMHYt6-GCdocrQC/view?usp=sharing)
 - [Test Cases]
 - [Bug Reports]
 - [Automated Testing]
