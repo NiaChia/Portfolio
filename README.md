@@ -2,8 +2,7 @@
 **Nia Ricks | QA Engineer | niaaricks@gmail.com**
 
 [About Me](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#about-me)  
-[Resume](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#resume)  
-[Project Example](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#urban-scooter-project)  
+[Resume](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#resume)   
 [Skills with Work Samples](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#skills-with-work-samples)  
 [Additional Skills](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#additional-skills)  
 [Certificates](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#certificates)
@@ -26,7 +25,7 @@ You can view/download my Resume [here](https://drive.google.com/file/d/1YOEIDSnr
 
 ## Skills (with Work Samples)
 - [Requirement Analysis](https://drive.google.com/file/d/1N9HhpW18OWqEq3gllmMHYt6-GCdocrQC/view?usp=sharing)
-- [Test Cases]
+- [Test Cases](https://drive.google.com/file/d/1eKdva3PyWHulH89kHgOE_yYkwIxqrSus/view?usp=sharing)
 - [Bug Reports]
 - [Automated Testing]
 
