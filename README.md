@@ -19,12 +19,12 @@ I’m a firm believer in collaboration and continuous learning, always looking f
 [My LinkedIn Profile](https://www.linkedin.com/in/niaricks/)
 
 ## Resume
-You can view/download my Resume [here](https://drive.google.com/file/d/1YOEIDSnrAXqgyk8uz4wThLe8wCx7mamg/view?usp=sharing)
+You can view/download my Resume [here](https://drive.google.com/file/d/1-0y1nAp3CqaZNnTTqHPZ6XNQST947-oC/view?usp=sharing)
 
 ## Skills (with Work Samples)
 - [Requirement Analysis](https://drive.google.com/file/d/1N9HhpW18OWqEq3gllmMHYt6-GCdocrQC/view?usp=sharing)
 - [Test Cases](https://drive.google.com/file/d/1eKdva3PyWHulH89kHgOE_yYkwIxqrSus/view?usp=sharing)
-- [Bug Reports]
+- [Bug Reports](https://drive.google.com/file/d/1XZ1WM21N9Gk6Ji1iEdfFD4g_RjKH6hJ5/view?usp=drive_link)
 - [Automated Testing]
 
 ## Additional Skills
