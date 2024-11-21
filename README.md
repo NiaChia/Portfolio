@@ -25,7 +25,7 @@ You can view/download my Resume [here](https://drive.google.com/file/d/1-0y1nAp3
 - [Requirement Analysis](https://drive.google.com/file/d/1N9HhpW18OWqEq3gllmMHYt6-GCdocrQC/view?usp=sharing)
 - [Test Cases](https://drive.google.com/file/d/1eKdva3PyWHulH89kHgOE_yYkwIxqrSus/view?usp=sharing)
 - [Bug Reports](https://drive.google.com/file/d/1XZ1WM21N9Gk6Ji1iEdfFD4g_RjKH6hJ5/view?usp=drive_link)
-- [Automated Testing]
+- [Automated Testing](https://drive.google.com/file/d/1WgB6Tq2cbXfiGP7EV0dRQcOWGE1enZlC/view?usp=sharing)
 
 ## Additional Skills
 QA Engineering | Test Planning | Test Documentation | Manual Testing | Mobile Testing | Android Studio |   
