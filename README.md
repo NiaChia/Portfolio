@@ -30,7 +30,7 @@ You can view/download my Resume [here](https://drive.google.com/file/d/1ds1My8Sp
 ## Additional Skills
 QA Engineering | Test Planning | Test Documentation | Manual Testing | Mobile Testing | Android Studio |   
 API Testing | UI Testing | Regression Testing | Agile | JIRA | Postman | SQL | Console | Bash | WebDriverIO |   
-JSON | Figma | Node.js | DevTools | GitHub | Git | Automation Testing | JavaScript 
+JSON | Figma | Node.js | DevTools | GitHub | Git | JavaScript 
 
 ## Certificates
 [QA Engineering Professional Training Program](https://drive.google.com/file/d/1T0lp2iWhvuLgTfRZJshCSEwaH3jAjZEY/view?usp=sharing) Oct 2024
