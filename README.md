@@ -1,8 +1,9 @@
-# Portfolio (Under Construction)
+# Nia Ricks' Portfolio
 **Nia Ricks | QA Engineer | niaaricks@gmail.com**
 
 [About Me](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#about-me)  
-[Resume](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#resume)   
+[Resume](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#resume) 
+[TaskTrain QA Project]
 [Skills with Work Samples](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#skills-with-work-samples)  
 [Additional Skills](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#additional-skills)  
 [Certificates](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#certificates)
@@ -21,6 +22,9 @@ I’m a firm believer in collaboration and continuous learning, always looking f
 ## Resume
 You can view/download my Resume [here](https://drive.google.com/file/d/1ds1My8Spjiu7sVcPjY_Ii283XIBsjSxj/view?usp=sharing)
 
+## TaskTrain Project
+You can view a presentation of the QA work I did for TaskTrain [here](https://niaricks-tasktrain.my.canva.site/)
+
 ## Skills (with Work Samples)
 - [Requirement Analysis](https://drive.google.com/file/d/1N9HhpW18OWqEq3gllmMHYt6-GCdocrQC/view?usp=sharing)
 - [Test Cases](https://drive.google.com/file/d/1eKdva3PyWHulH89kHgOE_yYkwIxqrSus/view?usp=sharing)
@@ -30,7 +34,8 @@ You can view/download my Resume [here](https://drive.google.com/file/d/1ds1My8Sp
 ## Additional Skills
 QA Engineering | Test Planning | Test Documentation | Manual Testing | Mobile Testing | Android Studio |   
 API Testing | UI Testing | Regression Testing | Agile | JIRA | Postman | SQL | Console | Bash | WebDriverIO |   
-JSON | Figma | Node.js | DevTools | GitHub | Git | JavaScript 
+JSON | Figma | Node.js | DevTools | GitHub | Git | JavaScript | Gherkin | Exploratory Testing | Feature Stories
 
 ## Certificates
+[QA Engineering Externship](https://drive.google.com/file/d/1I-4UyrfiG8uO6mCAevtmql7eMQEhAqAc/view?usp=sharing) April 2025
 [QA Engineering Professional Training Program](https://drive.google.com/file/d/1T0lp2iWhvuLgTfRZJshCSEwaH3jAjZEY/view?usp=sharing) Oct 2024
