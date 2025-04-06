@@ -2,7 +2,7 @@
 **Nia Ricks | QA Engineer | niaaricks@gmail.com**
 
 [About Me](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#about-me)  
-[Resume](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#resume) 
+[Resume](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#resume)         
 [TaskTrain QA Project](https://github.com/NiaChia/Portfolio/tree/main?tab=readme-ov-file#tasktrain-project)  
 [Skills with Work Samples](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#skills-with-work-samples)  
 [Additional Skills](https://github.com/NiaChia/Portfolio?tab=readme-ov-file#additional-skills)  
@@ -20,7 +20,7 @@ I’m a firm believer in collaboration and continuous learning, always looking f
 [My LinkedIn Profile](https://www.linkedin.com/in/niaricks/)
 
 ## Resume
-You can view/download my Resume [here](https://drive.google.com/file/d/1ds1My8Spjiu7sVcPjY_Ii283XIBsjSxj/view?usp=sharing)
+You can view/download my Resume [here](https://drive.google.com/file/d/1FgOk0YH-ESk_FBFQWDaMenIaVdoKeszX/view?usp=sharing)
 
 ## TaskTrain Project
 You can view a presentation of the QA work I did for TaskTrain [here](https://niaricks-tasktrain.my.canva.site/)
@@ -37,5 +37,5 @@ API Testing | UI Testing | Regression Testing | Agile | JIRA | Postman | SQL | C
 JSON | Figma | Node.js | DevTools | GitHub | Git | JavaScript | Gherkin | Exploratory Testing | Feature Stories
 
 ## Certificates
-[QA Engineering Externship](https://drive.google.com/file/d/1I-4UyrfiG8uO6mCAevtmql7eMQEhAqAc/view?usp=sharing) April 2025
+[QA Engineering Externship](https://drive.google.com/file/d/1I-4UyrfiG8uO6mCAevtmql7eMQEhAqAc/view?usp=sharing) April 2025     
 [QA Engineering Professional Training Program](https://drive.google.com/file/d/1T0lp2iWhvuLgTfRZJshCSEwaH3jAjZEY/view?usp=sharing) Oct 2024
